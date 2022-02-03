@@ -1,4 +1,4 @@
-### Olá eu sou a Raquel Alves!
+  ### Olá eu sou a Raquel Alves!
 
 <div align="center">
   <a href="https://github.com/raquelalves27">
@@ -21,6 +21,8 @@
   <a href = "mailto:raquel.alves7260@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raquel-alves-a905bb1a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+  
 ![Snake animation](https://github.com/raquelalves27/raquelalves27/blob/output/github-contribution-grid-snake.svg)
   
 
